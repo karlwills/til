@@ -11,7 +11,7 @@ You can use innerHTML and textContent to update the markup and just the text wit
 const el = document.querySelector('.element');
 
 // Get the HTML
-const html = el.innerHTML;
+let html = el.innerHTML;
 
 // Set the HTML content
 el.innerHTML = 'This would be the new HTML content. You can also add HTML elements, like a <a href="#">Hyperlink</a>';
@@ -26,7 +26,7 @@ el.innerHTML = 'This content will be added to the existing content. ' + el.inner
 
 ```javascript
 // Get the element
-const el = document.querySelector('.element');
+let el = document.querySelector('.element');
 
 // Set the text content
 el.textContent = 'This would be the new content.';
