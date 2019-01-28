@@ -1,4 +1,4 @@
-# Using innerHTML and xextContent to get/set content in the DOM
+# Using innerHTML and textContent to get/set content in the DOM
 
 You can use innerHTML and textContent to update the markup and just the text within an element respectively.
 
