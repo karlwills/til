@@ -36,5 +36,5 @@ el.textContent += ' This would be added to the existing content in the element.'
 ```
 
 
-##### Browser Compatibility
+#### Browser Compatibility
 Both work in all modern browsers. Also IE9+
