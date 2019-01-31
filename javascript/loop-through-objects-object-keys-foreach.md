@@ -39,5 +39,5 @@ Using `.forEach()` on the returned array provided from `Object.keys()` will allo
 Both are supported in all modern browsers and IE9+. There are Polyfills available for older browser support.
 
 #### More Information
-[MDN - Object.keys()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
-[MDN - Array.forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+* [MDN - Object.keys()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
+* [MDN - Array.forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
