@@ -4,6 +4,8 @@ Using the `.some()` method on an array is a good way to test if one or more item
 
 `.some()` executes the provided conditional function until it finds a truthy value, returning `true` if it does and `false` otherwise.
 
+The method also returns `false` for any condition put on an empty array.
+
 #### Example
 
 ```javascript
