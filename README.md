@@ -2,7 +2,7 @@
 
 > Today I learned
 
-A collection of write-ups on small things that I learn on a day-to-day basis.
+A collection of write-ups on small things that I've learned while working on a day-to-day basis.
 
 ### Categories
 
