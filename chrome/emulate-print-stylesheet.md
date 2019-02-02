@@ -1,4 +1,4 @@
-# Emulate print stylesheet rendering
+# Emulate print stylesheet rendering using Chrome DevTools
 
 You can preview a how a webpage will be printed by emulating the CSS print media type, accessed in Google Chrome DevTools.
 
