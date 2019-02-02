@@ -9,6 +9,9 @@ A collection of write-ups on small things that I've learned while working on a d
 * [JavaScript](#javascript)
 * [React](#react)
 
+### Chrome
+
+* [Emulate print stylesheet rendering using Chrome DevTools](chrome/emulate-print-stylesheet.md)
 
 ### JavaScript
 
