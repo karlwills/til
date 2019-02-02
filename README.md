@@ -8,6 +8,7 @@ A collection of write-ups on small things that I've learned while working on a d
 
 * [JavaScript](#javascript)
 * [React](#react)
+* [Chrome](#chrome)
 
 ### Chrome
 
