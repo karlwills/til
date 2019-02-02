@@ -1,6 +1,6 @@
 # Emulate print stylesheet rendering using Chrome DevTools
 
-You can preview a how a webpage will be printed by emulating the CSS print media type, accessed in Google Chrome DevTools.
+You can preview a how a web page will be printed by emulating the CSS print media type, accessed in Google Chrome DevTools.
 
 1. Press `Command+Shift+P` to open the Command Menu.
 2. Type `rendering`, select `Show Rendering`, and then press `Enter`.
