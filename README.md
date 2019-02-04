@@ -25,6 +25,7 @@ A collection of write-ups on small things that I've learned while working on a d
 * [Sort an array of data using `Array.sort()`](javascript/array-sort-method.md)
 * [Looping through objects using `Object.keys()` and `Array.forEach()`](javascript/loop-through-objects-object-keys-foreach.md)
 * [Check at least one item in an array returns truthy using `Array.some()`](javascript/array-some-check-at-least-one-item-truthy.md)
+* [Using `localStorage()` to store data in the browser](javascript/using-localstorage-to-store-data.md)
 
 ---
 
