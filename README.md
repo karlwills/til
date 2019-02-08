@@ -14,7 +14,7 @@ A collection of write-ups on small things that I've learned while working on a d
 ---
 
 ### HTML/CSS
-* [Use the CSS General sibling combinator to toggle a nav element](html-css/general-sibling-combinator-toggle-menu.md)
+* [Use the CSS General sibling combinator `~` to toggle a `nav` element](html-css/general-sibling-combinator-toggle-menu.md)
 
 ---
 
