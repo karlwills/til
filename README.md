@@ -8,8 +8,15 @@ A collection of write-ups on small things that I've learned while working on a d
 
 * [Chrome](#chrome)
 * [HTML/CSS](#htmlcss)
+* [iTerm](#iterm)
 * [JavaScript](#javascript)
 * [React](#react)
+
+---
+
+### Chrome
+
+* [Emulate print stylesheet rendering using Chrome DevTools](chrome/emulate-print-stylesheet.md)
 
 ---
 
@@ -18,9 +25,9 @@ A collection of write-ups on small things that I've learned while working on a d
 
 ---
 
-### Chrome
+### iTerm
 
-* [Emulate print stylesheet rendering using Chrome DevTools](chrome/emulate-print-stylesheet.md)
+* [Visit a URL displayed within iTerm in the browser](/iTerm/visit-links-click.md)
 
 ---
 
