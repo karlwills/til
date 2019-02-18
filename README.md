@@ -11,6 +11,7 @@ A collection of write-ups on small things that I've learned while working on a d
 * [iTerm](#iterm)
 * [JavaScript](#javascript)
 * [React](#react)
+* [SCSS](#scss)
 
 ---
 
@@ -44,4 +45,12 @@ A collection of write-ups on small things that I've learned while working on a d
 ---
 
 ### React
+
 * [Using ES6 destructuring to pass in specific props to components](react/use-es6-destructuring-syntax-to-pass-in-specific-props.md)
+
+---
+
+### SCSS
+
+* [Use the `@each` directive to perform tasks to a number of items in a `list` or `map`](/scss/use-each-directive.md)
+
