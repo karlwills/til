@@ -1,4 +1,4 @@
-# Use the `@each` directive to perform tasks to a number of items in a list
+# Use the `@each` directive to perform tasks to a number of items in a `list` or `map`
 
 The `@each` directive allows you to loop over a provided `list` or `map` in Sass, giving you the flexibility to dynamically add styles where needed.
 
