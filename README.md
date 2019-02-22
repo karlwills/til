@@ -7,6 +7,7 @@ A collection of write-ups on small things that I've learned while working on a d
 ### Categories
 
 * [Chrome](#chrome)
+* [Git](#git)
 * [HTML/CSS](#htmlcss)
 * [iTerm](#iterm)
 * [JavaScript](#javascript)
@@ -19,6 +20,11 @@ A collection of write-ups on small things that I've learned while working on a d
 
 * [Emulate print stylesheet rendering using Chrome DevTools](chrome/emulate-print-stylesheet.md)
 
+---
+
+### Git
+
+* [Remove untracked files from the working tree using `git clean`](git/remove-untracked-files-from-working-tree.md)
 ---
 
 ### HTML/CSS
