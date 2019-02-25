@@ -25,6 +25,7 @@ A collection of write-ups on small things that I've learned while working on a d
 ### Git
 
 * [Remove untracked files from the working tree using `git clean`](git/remove-untracked-files-from-working-tree.md)
+* [Compile all commits from a branch into a single commit when merging branches using `git merge --squash`](git/squash-commits-git-merge.md)
 ---
 
 ### HTML/CSS
