@@ -40,7 +40,7 @@ A collection of write-ups on small things that I've learned while working on a d
 ---
 
 ### JavaScript
-
+* [Arrow functions inherit their this value from their parent's context](javascript/arrow-functions-this.md)
 * [Using `innerHTML` and `textContent` to get/set content in the DOM](javascript/using-innerhtml-textcontent.md)
 * [Testing CSS support with JavaScript](javascript/css-feature-support-testing.md)
 * [Sort an array of data using `Array.sort()`](javascript/array-sort-method.md)
