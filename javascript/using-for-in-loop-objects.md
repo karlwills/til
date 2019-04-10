@@ -11,7 +11,7 @@ const person = {
     occupation: 'Front-end Developer'
 }
 
-for(const prop of Object.keys(person)) {
+for(const prop in Object.keys(person)) {
     console.log( `The property name is "${prop}" and the value is ${person[prop]}` );
 };
 ```
