@@ -1,6 +1,6 @@
 # Using `for...in` with Objects
 
-Using the combination of `for in` and `Object.keys()` we can easily loop through an object and get it's properties.
+Using `for in`, we can easily loop through an object and get it's properties.
 
 ```javascript
 const person = {
@@ -11,7 +11,7 @@ const person = {
     occupation: 'Front-end Developer'
 }
 
-for(const prop in Object.keys(person)) {
+for(const prop in person) {
     console.log( `The property name is "${prop}" and the value is ${person[prop]}` );
 };
 ```
@@ -19,9 +19,7 @@ for(const prop in Object.keys(person)) {
 ### Browser Support
 
 * `for...in` - All modern browsers and IE6+
-* `Object.keys()` - All modern browsers and IE9+
 
 #### Further Reading
 
-* [MDN - Object.keys()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
 * [MDN - for...in](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in)
