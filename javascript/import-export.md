@@ -1,7 +1,7 @@
 # Imports and Exports
 
 
-## imports
+## Imports
 
 The `import` statement is used to import bindings that have been previously exported by another module.
 
