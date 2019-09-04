@@ -35,10 +35,9 @@ let module = await import('./path/to/module.js');
 
 The `export` statement is used when creating JavaScript modules to export bindings (functions, objects, or [primitive values](https://developer.mozilla.org/en-US/docs/Glossary/Primitive)) so they can be used in by other modules using the `import` statement.
 
-There are 3 types of exports:
+There are 2 main types of exports:
 * Named exports (0 or more per module)
 * Default exports (*one* per module)
-* Hybrid exports
 
 #### Export Examples
 
