@@ -62,5 +62,6 @@ export default componentName;
 Both `import` and `export` has support in all modern browsers, with no support in Internet Explorer.
 
 #### More Information
-[MDN - Import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+[MDN - Import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) 
+
 [MDN - Export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
