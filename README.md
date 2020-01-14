@@ -49,7 +49,7 @@ A collection of write-ups on small things that I've learned while working on a d
 * [Using `localStorage()` to store data in the browser](javascript/using-localstorage-to-store-data.md)
 * [Use ES6 Destructuring assignment syntax to unpack values into variables](javascript/es6-destructuring-assignment-syntax.md)
 * [Using `for...in` with Objects](javascript/using-for-in-loop-objects.md)
-* [`imports` and `exports`](javascript/imports-exports.md)
+* [`import` and `export`](javascript/import-export.md)
 
 ---
 
